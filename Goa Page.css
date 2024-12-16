@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.background-container {
+    height: 100vh;
+}
+
+.background-text-contaniner {
+    font-family: Roboto;
+    margin: 20px;
+}
+
+.background-text-heading {
+    color: #323f4b;
+    font-size: 18px;
+}
+
+.background-text-para {
+    color: #9aa5b1;
+    font-size: 12px;
+}
+
+.background-image-contaniner {
+    font-family: Roboto;
+    margin: 20px;
+}
+
+.First-image {
+    margin: 10px;
+}
+
+.Second-image {
+    margin: 10px;
+}
+
+.Third-image {
+    margin: 10px;
+}
+
+.GoaTourism-video-container {
+    width: 96px;
+    height: 96px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.EntrepreneursBeachFestivalIndia-video-container {
+    width: 96px;
+    height: 96px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.SoulandFuel-video-container {
+    width: 96px;
+    height: 96px;
+    margin: 10px;
+    border-radius: 10px;
+}
